@@ -11,10 +11,10 @@ const NavBar = () => {
                     href="/"
                     className='flex justify-center items-end'>
                     <Image
-                        src='/logo.svg'
+                        src='/logo.png'
                         alt='Car Hub Logo'
-                        width={118}
-                        height={18}
+                        width={175}
+                        height={40}
                         className='object-contain' />
                 </Link>
 
