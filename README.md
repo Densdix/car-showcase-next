@@ -9,7 +9,7 @@
     <br>
     <br>
   <p align="center">
-    SPA Portfolio project. Built with Next.js.
+    SPA Car Showcase. Built with Next.js.
     <br />
     <a href="https://nextjs.org/"><strong>Explore the docs »</strong></a>
     <br />
