@@ -22,7 +22,7 @@ const SearchModel: React.FC<ISearchModel> = ({ manufacturer, model, setModel }) 
     return (
         <div className='flex-1 max-sm:w-full flex justify-start items-center'>
             <Combobox value={model} onChange={setModel}>
-                <div className='relative w-full z-30'>
+                <div className='relative w-full z-[15]'>
                     <Combobox.Button className='absolute top-[14px]'>
                         <Image src='/model-icon.png' width={20} height={20} className='ml-4' alt='car logo' />
                     </Combobox.Button>
